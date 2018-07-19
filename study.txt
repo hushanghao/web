@@ -4,4 +4,4 @@ git is free
 git is wonderful
 git is good
 stupid boss
-creating a new branch is quick
+creating a new branch is quick & simple
